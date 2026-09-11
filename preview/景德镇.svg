@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1002" height="246" viewBox="0 0 1002 246">
+  <rect width="1002" height="246" fill="#ffffff"/>
+  <text x="24" y="30" font-size="17" font-weight="600" fill="#111" font-family="sans-serif">景德镇</text>
+  <text x="24" y="64" font-size="11" fill="#666" font-family="sans-serif">深色</text>
+  <rect x="24" y="72" width="100" height="52" fill="#161a20"/>
+  <text x="74.0" y="94.0" font-size="13" fill="#f5f5f5" text-anchor="middle" font-family="sans-serif">底</text>
+  <text x="74.0" y="112.0" font-size="10" fill="#f5f5f5" opacity="0.65" text-anchor="middle" font-family="monospace">#161a20</text>
+
+  <rect x="130" y="72" width="100" height="52" fill="#21252c"/>
+  <text x="180.0" y="94.0" font-size="13" fill="#f5f5f5" text-anchor="middle" font-family="sans-serif">面层</text>
+  <text x="180.0" y="112.0" font-size="10" fill="#f5f5f5" opacity="0.65" text-anchor="middle" font-family="monospace">#21252c</text>
+
+  <rect x="236" y="72" width="100" height="52" fill="#353943"/>
+  <text x="286.0" y="94.0" font-size="13" fill="#f5f5f5" text-anchor="middle" font-family="sans-serif">悬停</text>
+  <text x="286.0" y="112.0" font-size="10" fill="#f5f5f5" opacity="0.65" text-anchor="middle" font-family="monospace">#353943</text>
+
+  <rect x="342" y="72" width="100" height="52" fill="#aab9e1"/>
+  <text x="392.0" y="94.0" font-size="13" fill="#111111" text-anchor="middle" font-family="sans-serif">主色</text>
+  <text x="392.0" y="112.0" font-size="10" fill="#111111" opacity="0.65" text-anchor="middle" font-family="monospace">#aab9e1</text>
+
+  <rect x="448" y="72" width="100" height="52" fill="#9dc1b7"/>
+  <text x="498.0" y="94.0" font-size="13" fill="#111111" text-anchor="middle" font-family="sans-serif">次色</text>
+  <text x="498.0" y="112.0" font-size="10" fill="#111111" opacity="0.65" text-anchor="middle" font-family="monospace">#9dc1b7</text>
+
+  <rect x="554" y="72" width="100" height="52" fill="#abc7b1"/>
+  <text x="604.0" y="94.0" font-size="13" fill="#111111" text-anchor="middle" font-family="sans-serif">三色</text>
+  <text x="604.0" y="112.0" font-size="10" fill="#111111" opacity="0.65" text-anchor="middle" font-family="monospace">#abc7b1</text>
+
+  <rect x="660" y="72" width="100" height="52" fill="#e0adad"/>
+  <text x="710.0" y="94.0" font-size="13" fill="#111111" text-anchor="middle" font-family="sans-serif">错误</text>
+  <text x="710.0" y="112.0" font-size="10" fill="#111111" opacity="0.65" text-anchor="middle" font-family="monospace">#e0adad</text>
+
+  <rect x="766" y="72" width="100" height="52" fill="#d2e0de"/>
+  <text x="816.0" y="94.0" font-size="13" fill="#111111" text-anchor="middle" font-family="sans-serif">字</text>
+  <text x="816.0" y="112.0" font-size="10" fill="#111111" opacity="0.65" text-anchor="middle" font-family="monospace">#d2e0de</text>
+
+  <rect x="872" y="72" width="100" height="52" fill="#656875"/>
+  <text x="922.0" y="94.0" font-size="13" fill="#f5f5f5" text-anchor="middle" font-family="sans-serif">边框</text>
+  <text x="922.0" y="112.0" font-size="10" fill="#f5f5f5" opacity="0.65" text-anchor="middle" font-family="monospace">#656875</text>
+
+  <text x="24" y="150" font-size="11" fill="#666" font-family="sans-serif">浅色</text>
+  <rect x="24" y="158" width="100" height="52" fill="#e8f6f5"/>
+  <text x="74.0" y="180.0" font-size="13" fill="#111111" text-anchor="middle" font-family="sans-serif">底</text>
+  <text x="74.0" y="198.0" font-size="10" fill="#111111" opacity="0.65" text-anchor="middle" font-family="monospace">#e8f6f5</text>
+
+  <rect x="130" y="158" width="100" height="52" fill="#f7ffff"/>
+  <text x="180.0" y="180.0" font-size="13" fill="#111111" text-anchor="middle" font-family="sans-serif">面层</text>
+  <text x="180.0" y="198.0" font-size="10" fill="#111111" opacity="0.65" text-anchor="middle" font-family="monospace">#f7ffff</text>
+
+  <rect x="236" y="158" width="100" height="52" fill="#daeae8"/>
+  <text x="286.0" y="180.0" font-size="13" fill="#111111" text-anchor="middle" font-family="sans-serif">悬停</text>
+  <text x="286.0" y="198.0" font-size="10" fill="#111111" opacity="0.65" text-anchor="middle" font-family="monospace">#daeae8</text>
+
+  <rect x="342" y="158" width="100" height="52" fill="#3d4c6f"/>
+  <text x="392.0" y="180.0" font-size="13" fill="#f5f5f5" text-anchor="middle" font-family="sans-serif">主色</text>
+  <text x="392.0" y="198.0" font-size="10" fill="#f5f5f5" opacity="0.65" text-anchor="middle" font-family="monospace">#3d4c6f</text>
+
+  <rect x="448" y="158" width="100" height="52" fill="#32534b"/>
+  <text x="498.0" y="180.0" font-size="13" fill="#f5f5f5" text-anchor="middle" font-family="sans-serif">次色</text>
+  <text x="498.0" y="198.0" font-size="10" fill="#f5f5f5" opacity="0.65" text-anchor="middle" font-family="monospace">#32534b</text>
+
+  <rect x="554" y="158" width="100" height="52" fill="#435c49"/>
+  <text x="604.0" y="180.0" font-size="13" fill="#f5f5f5" text-anchor="middle" font-family="sans-serif">三色</text>
+  <text x="604.0" y="198.0" font-size="10" fill="#f5f5f5" opacity="0.65" text-anchor="middle" font-family="monospace">#435c49</text>
+
+  <rect x="660" y="158" width="100" height="52" fill="#774b4b"/>
+  <text x="710.0" y="180.0" font-size="13" fill="#f5f5f5" text-anchor="middle" font-family="sans-serif">错误</text>
+  <text x="710.0" y="198.0" font-size="10" fill="#f5f5f5" opacity="0.65" text-anchor="middle" font-family="monospace">#774b4b</text>
+
+  <rect x="766" y="158" width="100" height="52" fill="#171c25"/>
+  <text x="816.0" y="180.0" font-size="13" fill="#f5f5f5" text-anchor="middle" font-family="sans-serif">字</text>
+  <text x="816.0" y="198.0" font-size="10" fill="#f5f5f5" opacity="0.65" text-anchor="middle" font-family="monospace">#171c25</text>
+
+  <rect x="872" y="158" width="100" height="52" fill="#7c8f8f"/>
+  <text x="922.0" y="180.0" font-size="13" fill="#111111" text-anchor="middle" font-family="sans-serif">边框</text>
+  <text x="922.0" y="198.0" font-size="10" fill="#111111" opacity="0.65" text-anchor="middle" font-family="monospace">#7c8f8f</text>
+
+</svg>
