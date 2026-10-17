@@ -1,78 +1,241 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1002" height="246" viewBox="0 0 1002 246">
-  <rect width="1002" height="246" fill="#ffffff"/>
-  <text x="24" y="30" font-size="17" font-weight="600" fill="#111" font-family="sans-serif">哥窑</text>
-  <text x="24" y="64" font-size="11" fill="#666" font-family="sans-serif">深色</text>
-  <rect x="24" y="72" width="100" height="52" fill="#131b1b"/>
-  <text x="74.0" y="94.0" font-size="13" fill="#f5f5f5" text-anchor="middle" font-family="sans-serif">底</text>
-  <text x="74.0" y="112.0" font-size="10" fill="#f5f5f5" opacity="0.65" text-anchor="middle" font-family="monospace">#131b1b</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="984" height="600" viewBox="0 0 984 600">
+  <rect width="984" height="600" fill="#ffffff"/>
+  <text x="18" y="30" font-size="17" font-weight="600" fill="#111" font-family="sans-serif">哥窑</text>
+<text x="18" y="44" font-size="12" font-weight="600" fill="#333" font-family="sans-serif">深色 UI</text>
+  <rect x="18" y="50" width="100" height="46" fill="#131b1b"/>
+  <text x="68.0" y="70.0" font-size="13" fill="#f5f5f5" text-anchor="middle" font-family="sans-serif">底</text>
+  <text x="68.0" y="86.0" font-size="10" fill="#f5f5f5" opacity="0.7" text-anchor="middle" font-family="monospace">#131b1b</text>
 
-  <rect x="130" y="72" width="100" height="52" fill="#1d2627"/>
-  <text x="180.0" y="94.0" font-size="13" fill="#f5f5f5" text-anchor="middle" font-family="sans-serif">面层</text>
-  <text x="180.0" y="112.0" font-size="10" fill="#f5f5f5" opacity="0.65" text-anchor="middle" font-family="monospace">#1d2627</text>
+  <rect x="124" y="50" width="100" height="46" fill="#273030"/>
+  <text x="174.0" y="70.0" font-size="13" fill="#f5f5f5" text-anchor="middle" font-family="sans-serif">面层</text>
+  <text x="174.0" y="86.0" font-size="10" fill="#f5f5f5" opacity="0.7" text-anchor="middle" font-family="monospace">#273030</text>
 
-  <rect x="236" y="72" width="100" height="52" fill="#2f3b3c"/>
-  <text x="286.0" y="94.0" font-size="13" fill="#f5f5f5" text-anchor="middle" font-family="sans-serif">悬停</text>
-  <text x="286.0" y="112.0" font-size="10" fill="#f5f5f5" opacity="0.65" text-anchor="middle" font-family="monospace">#2f3b3c</text>
+  <rect x="230" y="50" width="100" height="46" fill="#324040"/>
+  <text x="280.0" y="70.0" font-size="13" fill="#f5f5f5" text-anchor="middle" font-family="sans-serif">悬停</text>
+  <text x="280.0" y="86.0" font-size="10" fill="#f5f5f5" opacity="0.7" text-anchor="middle" font-family="monospace">#324040</text>
 
-  <rect x="342" y="72" width="100" height="52" fill="#d0b596"/>
-  <text x="392.0" y="94.0" font-size="13" fill="#111111" text-anchor="middle" font-family="sans-serif">主色</text>
-  <text x="392.0" y="112.0" font-size="10" fill="#111111" opacity="0.65" text-anchor="middle" font-family="monospace">#d0b596</text>
+  <rect x="336" y="50" width="100" height="46" fill="#d9c1a0"/>
+  <text x="386.0" y="70.0" font-size="13" fill="#111111" text-anchor="middle" font-family="sans-serif">主色</text>
+  <text x="386.0" y="86.0" font-size="10" fill="#111111" opacity="0.7" text-anchor="middle" font-family="monospace">#d9c1a0</text>
 
-  <rect x="448" y="72" width="100" height="52" fill="#aebcbf"/>
-  <text x="498.0" y="94.0" font-size="13" fill="#111111" text-anchor="middle" font-family="sans-serif">次色</text>
-  <text x="498.0" y="112.0" font-size="10" fill="#111111" opacity="0.65" text-anchor="middle" font-family="monospace">#aebcbf</text>
+  <rect x="442" y="50" width="100" height="46" fill="#b8c6d0"/>
+  <text x="492.0" y="70.0" font-size="13" fill="#111111" text-anchor="middle" font-family="sans-serif">次色</text>
+  <text x="492.0" y="86.0" font-size="10" fill="#111111" opacity="0.7" text-anchor="middle" font-family="monospace">#b8c6d0</text>
 
-  <rect x="554" y="72" width="100" height="52" fill="#aac7bc"/>
-  <text x="604.0" y="94.0" font-size="13" fill="#111111" text-anchor="middle" font-family="sans-serif">三色</text>
-  <text x="604.0" y="112.0" font-size="10" fill="#111111" opacity="0.65" text-anchor="middle" font-family="monospace">#aac7bc</text>
+  <rect x="548" y="50" width="100" height="46" fill="#cddcbf"/>
+  <text x="598.0" y="70.0" font-size="13" fill="#111111" text-anchor="middle" font-family="sans-serif">三色</text>
+  <text x="598.0" y="86.0" font-size="10" fill="#111111" opacity="0.7" text-anchor="middle" font-family="monospace">#cddcbf</text>
 
-  <rect x="660" y="72" width="100" height="52" fill="#d1b0c4"/>
-  <text x="710.0" y="94.0" font-size="13" fill="#111111" text-anchor="middle" font-family="sans-serif">错误</text>
-  <text x="710.0" y="112.0" font-size="10" fill="#111111" opacity="0.65" text-anchor="middle" font-family="monospace">#d1b0c4</text>
+  <rect x="654" y="50" width="100" height="46" fill="#f9c1c9"/>
+  <text x="704.0" y="70.0" font-size="13" fill="#111111" text-anchor="middle" font-family="sans-serif">错误</text>
+  <text x="704.0" y="86.0" font-size="10" fill="#111111" opacity="0.7" text-anchor="middle" font-family="monospace">#f9c1c9</text>
 
-  <rect x="766" y="72" width="100" height="52" fill="#e3dcd3"/>
-  <text x="816.0" y="94.0" font-size="13" fill="#111111" text-anchor="middle" font-family="sans-serif">字</text>
-  <text x="816.0" y="112.0" font-size="10" fill="#111111" opacity="0.65" text-anchor="middle" font-family="monospace">#e3dcd3</text>
+  <rect x="760" y="50" width="100" height="46" fill="#e9e2d9"/>
+  <text x="810.0" y="70.0" font-size="13" fill="#111111" text-anchor="middle" font-family="sans-serif">字</text>
+  <text x="810.0" y="86.0" font-size="10" fill="#111111" opacity="0.7" text-anchor="middle" font-family="monospace">#e9e2d9</text>
 
-  <rect x="872" y="72" width="100" height="52" fill="#576c6e"/>
-  <text x="922.0" y="94.0" font-size="13" fill="#f5f5f5" text-anchor="middle" font-family="sans-serif">边框</text>
-  <text x="922.0" y="112.0" font-size="10" fill="#f5f5f5" opacity="0.65" text-anchor="middle" font-family="monospace">#576c6e</text>
+  <rect x="866" y="50" width="100" height="46" fill="#7c9294"/>
+  <text x="916.0" y="70.0" font-size="13" fill="#f5f5f5" text-anchor="middle" font-family="sans-serif">边框</text>
+  <text x="916.0" y="86.0" font-size="10" fill="#f5f5f5" opacity="0.7" text-anchor="middle" font-family="monospace">#7c9294</text>
 
-  <text x="24" y="150" font-size="11" fill="#666" font-family="sans-serif">浅色</text>
-  <rect x="24" y="158" width="100" height="52" fill="#f8f1e9"/>
-  <text x="74.0" y="180.0" font-size="13" fill="#111111" text-anchor="middle" font-family="sans-serif">底</text>
-  <text x="74.0" y="198.0" font-size="10" fill="#111111" opacity="0.65" text-anchor="middle" font-family="monospace">#f8f1e9</text>
+<text x="18" y="124" font-size="12" font-weight="600" fill="#333" font-family="sans-serif">浅色 UI</text>
+  <rect x="18" y="130" width="100" height="46" fill="#f1e5d7"/>
+  <text x="68.0" y="150.0" font-size="13" fill="#111111" text-anchor="middle" font-family="sans-serif">底</text>
+  <text x="68.0" y="166.0" font-size="10" fill="#111111" opacity="0.7" text-anchor="middle" font-family="monospace">#f1e5d7</text>
 
-  <rect x="130" y="158" width="100" height="52" fill="#fffff7"/>
-  <text x="180.0" y="180.0" font-size="13" fill="#111111" text-anchor="middle" font-family="sans-serif">面层</text>
-  <text x="180.0" y="198.0" font-size="10" fill="#111111" opacity="0.65" text-anchor="middle" font-family="monospace">#fffff7</text>
+  <rect x="124" y="130" width="100" height="46" fill="#f9f7f4"/>
+  <text x="174.0" y="150.0" font-size="13" fill="#111111" text-anchor="middle" font-family="sans-serif">面层</text>
+  <text x="174.0" y="166.0" font-size="10" fill="#111111" opacity="0.7" text-anchor="middle" font-family="monospace">#f9f7f4</text>
 
-  <rect x="236" y="158" width="100" height="52" fill="#ede6dc"/>
-  <text x="286.0" y="180.0" font-size="13" fill="#111111" text-anchor="middle" font-family="sans-serif">悬停</text>
-  <text x="286.0" y="198.0" font-size="10" fill="#111111" opacity="0.65" text-anchor="middle" font-family="monospace">#ede6dc</text>
+  <rect x="230" y="130" width="100" height="46" fill="#f0d8ba"/>
+  <text x="280.0" y="150.0" font-size="13" fill="#111111" text-anchor="middle" font-family="sans-serif">悬停</text>
+  <text x="280.0" y="166.0" font-size="10" fill="#111111" opacity="0.7" text-anchor="middle" font-family="monospace">#f0d8ba</text>
 
-  <rect x="342" y="158" width="100" height="52" fill="#5d482d"/>
-  <text x="392.0" y="180.0" font-size="13" fill="#f5f5f5" text-anchor="middle" font-family="sans-serif">主色</text>
-  <text x="392.0" y="198.0" font-size="10" fill="#f5f5f5" opacity="0.65" text-anchor="middle" font-family="monospace">#5d482d</text>
+  <rect x="336" y="130" width="100" height="46" fill="#4b3517"/>
+  <text x="386.0" y="150.0" font-size="13" fill="#f5f5f5" text-anchor="middle" font-family="sans-serif">主色</text>
+  <text x="386.0" y="166.0" font-size="10" fill="#f5f5f5" opacity="0.7" text-anchor="middle" font-family="monospace">#4b3517</text>
 
-  <rect x="448" y="158" width="100" height="52" fill="#424d50"/>
-  <text x="498.0" y="180.0" font-size="13" fill="#f5f5f5" text-anchor="middle" font-family="sans-serif">次色</text>
-  <text x="498.0" y="198.0" font-size="10" fill="#f5f5f5" opacity="0.65" text-anchor="middle" font-family="monospace">#424d50</text>
+  <rect x="442" y="130" width="100" height="46" fill="#424d50"/>
+  <text x="492.0" y="150.0" font-size="13" fill="#f5f5f5" text-anchor="middle" font-family="sans-serif">次色</text>
+  <text x="492.0" y="166.0" font-size="10" fill="#f5f5f5" opacity="0.7" text-anchor="middle" font-family="monospace">#424d50</text>
 
-  <rect x="554" y="158" width="100" height="52" fill="#415b51"/>
-  <text x="604.0" y="180.0" font-size="13" fill="#f5f5f5" text-anchor="middle" font-family="sans-serif">三色</text>
-  <text x="604.0" y="198.0" font-size="10" fill="#f5f5f5" opacity="0.65" text-anchor="middle" font-family="monospace">#415b51</text>
+  <rect x="548" y="130" width="100" height="46" fill="#445b4e"/>
+  <text x="598.0" y="150.0" font-size="13" fill="#f5f5f5" text-anchor="middle" font-family="sans-serif">三色</text>
+  <text x="598.0" y="166.0" font-size="10" fill="#f5f5f5" opacity="0.7" text-anchor="middle" font-family="monospace">#445b4e</text>
 
-  <rect x="660" y="158" width="100" height="52" fill="#694d5f"/>
-  <text x="710.0" y="180.0" font-size="13" fill="#f5f5f5" text-anchor="middle" font-family="sans-serif">错误</text>
-  <text x="710.0" y="198.0" font-size="10" fill="#f5f5f5" opacity="0.65" text-anchor="middle" font-family="monospace">#694d5f</text>
+  <rect x="654" y="130" width="100" height="46" fill="#9f6d74"/>
+  <text x="704.0" y="150.0" font-size="13" fill="#f5f5f5" text-anchor="middle" font-family="sans-serif">错误</text>
+  <text x="704.0" y="166.0" font-size="10" fill="#f5f5f5" opacity="0.7" text-anchor="middle" font-family="monospace">#9f6d74</text>
 
-  <rect x="766" y="158" width="100" height="52" fill="#111e1e"/>
-  <text x="816.0" y="180.0" font-size="13" fill="#f5f5f5" text-anchor="middle" font-family="sans-serif">字</text>
-  <text x="816.0" y="198.0" font-size="10" fill="#f5f5f5" opacity="0.65" text-anchor="middle" font-family="monospace">#111e1e</text>
+  <rect x="760" y="130" width="100" height="46" fill="#000000"/>
+  <text x="810.0" y="150.0" font-size="13" fill="#f5f5f5" text-anchor="middle" font-family="sans-serif">字</text>
+  <text x="810.0" y="166.0" font-size="10" fill="#f5f5f5" opacity="0.7" text-anchor="middle" font-family="monospace">#000000</text>
 
-  <rect x="872" y="158" width="100" height="52" fill="#8d8678"/>
-  <text x="922.0" y="180.0" font-size="13" fill="#111111" text-anchor="middle" font-family="sans-serif">边框</text>
-  <text x="922.0" y="198.0" font-size="10" fill="#111111" opacity="0.65" text-anchor="middle" font-family="monospace">#8d8678</text>
+  <rect x="866" y="130" width="100" height="46" fill="#7d7669"/>
+  <text x="916.0" y="150.0" font-size="13" fill="#f5f5f5" text-anchor="middle" font-family="sans-serif">边框</text>
+  <text x="916.0" y="166.0" font-size="10" fill="#f5f5f5" opacity="0.7" text-anchor="middle" font-family="monospace">#7d7669</text>
+
+<text x="18" y="218" font-size="12" font-weight="600" fill="#333" font-family="sans-serif">深色终端 normal / bright</text>
+  <rect x="18" y="224" width="100" height="30" fill="#273030"/>
+  <text x="68.0" y="236.0" font-size="13" fill="#f5f5f5" text-anchor="middle" font-family="sans-serif">黑</text>
+  <text x="68.0" y="252.0" font-size="10" fill="#f5f5f5" opacity="0.7" text-anchor="middle" font-family="monospace">#273030</text>
+
+  <rect x="124" y="224" width="100" height="30" fill="#c37e66"/>
+  <text x="174.0" y="236.0" font-size="13" fill="#f5f5f5" text-anchor="middle" font-family="sans-serif">红</text>
+  <text x="174.0" y="252.0" font-size="10" fill="#f5f5f5" opacity="0.7" text-anchor="middle" font-family="monospace">#c37e66</text>
+
+  <rect x="230" y="224" width="100" height="30" fill="#93cd9c"/>
+  <text x="280.0" y="236.0" font-size="13" fill="#111111" text-anchor="middle" font-family="sans-serif">绿</text>
+  <text x="280.0" y="252.0" font-size="10" fill="#111111" opacity="0.7" text-anchor="middle" font-family="monospace">#93cd9c</text>
+
+  <rect x="336" y="224" width="100" height="30" fill="#e3df9d"/>
+  <text x="386.0" y="236.0" font-size="13" fill="#111111" text-anchor="middle" font-family="sans-serif">黄</text>
+  <text x="386.0" y="252.0" font-size="10" fill="#111111" opacity="0.7" text-anchor="middle" font-family="monospace">#e3df9d</text>
+
+  <rect x="442" y="224" width="100" height="30" fill="#a07fb6"/>
+  <text x="492.0" y="236.0" font-size="13" fill="#f5f5f5" text-anchor="middle" font-family="sans-serif">蓝</text>
+  <text x="492.0" y="252.0" font-size="10" fill="#f5f5f5" opacity="0.7" text-anchor="middle" font-family="monospace">#a07fb6</text>
+
+  <rect x="548" y="224" width="100" height="30" fill="#d69dcf"/>
+  <text x="598.0" y="236.0" font-size="13" fill="#111111" text-anchor="middle" font-family="sans-serif">品红</text>
+  <text x="598.0" y="252.0" font-size="10" fill="#111111" opacity="0.7" text-anchor="middle" font-family="monospace">#d69dcf</text>
+
+  <rect x="654" y="224" width="100" height="30" fill="#85e3ca"/>
+  <text x="704.0" y="236.0" font-size="13" fill="#111111" text-anchor="middle" font-family="sans-serif">青</text>
+  <text x="704.0" y="252.0" font-size="10" fill="#111111" opacity="0.7" text-anchor="middle" font-family="monospace">#85e3ca</text>
+
+  <rect x="760" y="224" width="100" height="30" fill="#e9e2d9"/>
+  <text x="810.0" y="236.0" font-size="13" fill="#111111" text-anchor="middle" font-family="sans-serif">白</text>
+  <text x="810.0" y="252.0" font-size="10" fill="#111111" opacity="0.7" text-anchor="middle" font-family="monospace">#e9e2d9</text>
+
+  <rect x="18" y="256" width="100" height="30" fill="#92a09c"/>
+  <text x="68.0" y="268.0" font-size="13" fill="#111111" text-anchor="middle" font-family="sans-serif"></text>
+  <text x="68.0" y="284.0" font-size="10" fill="#111111" opacity="0.7" text-anchor="middle" font-family="monospace">#92a09c</text>
+
+  <rect x="124" y="256" width="100" height="30" fill="#df8b6e"/>
+  <text x="174.0" y="268.0" font-size="13" fill="#111111" text-anchor="middle" font-family="sans-serif"></text>
+  <text x="174.0" y="284.0" font-size="10" fill="#111111" opacity="0.7" text-anchor="middle" font-family="monospace">#df8b6e</text>
+
+  <rect x="230" y="256" width="100" height="30" fill="#98dfa4"/>
+  <text x="280.0" y="268.0" font-size="13" fill="#111111" text-anchor="middle" font-family="sans-serif"></text>
+  <text x="280.0" y="284.0" font-size="10" fill="#111111" opacity="0.7" text-anchor="middle" font-family="monospace">#98dfa4</text>
+
+  <rect x="336" y="256" width="100" height="30" fill="#f2ee9d"/>
+  <text x="386.0" y="268.0" font-size="13" fill="#111111" text-anchor="middle" font-family="sans-serif"></text>
+  <text x="386.0" y="284.0" font-size="10" fill="#111111" opacity="0.7" text-anchor="middle" font-family="monospace">#f2ee9d</text>
+
+  <rect x="442" y="256" width="100" height="30" fill="#b68dd2"/>
+  <text x="492.0" y="268.0" font-size="13" fill="#111111" text-anchor="middle" font-family="sans-serif"></text>
+  <text x="492.0" y="284.0" font-size="10" fill="#111111" opacity="0.7" text-anchor="middle" font-family="monospace">#b68dd2</text>
+
+  <rect x="548" y="256" width="100" height="30" fill="#efa9e6"/>
+  <text x="598.0" y="268.0" font-size="13" fill="#111111" text-anchor="middle" font-family="sans-serif"></text>
+  <text x="598.0" y="284.0" font-size="10" fill="#111111" opacity="0.7" text-anchor="middle" font-family="monospace">#efa9e6</text>
+
+  <rect x="654" y="256" width="100" height="30" fill="#7ff5d7"/>
+  <text x="704.0" y="268.0" font-size="13" fill="#111111" text-anchor="middle" font-family="sans-serif"></text>
+  <text x="704.0" y="284.0" font-size="10" fill="#111111" opacity="0.7" text-anchor="middle" font-family="monospace">#7ff5d7</text>
+
+  <rect x="760" y="256" width="100" height="30" fill="#ebf3f0"/>
+  <text x="810.0" y="268.0" font-size="13" fill="#111111" text-anchor="middle" font-family="sans-serif"></text>
+  <text x="810.0" y="284.0" font-size="10" fill="#111111" opacity="0.7" text-anchor="middle" font-family="monospace">#ebf3f0</text>
+
+<text x="18" y="368" font-size="12" font-weight="600" fill="#333" font-family="sans-serif">浅色终端 normal / bright</text>
+  <rect x="18" y="374" width="100" height="30" fill="#000000"/>
+  <text x="68.0" y="386.0" font-size="13" fill="#f5f5f5" text-anchor="middle" font-family="sans-serif">黑</text>
+  <text x="68.0" y="402.0" font-size="10" fill="#f5f5f5" opacity="0.7" text-anchor="middle" font-family="monospace">#000000</text>
+
+  <rect x="124" y="374" width="100" height="30" fill="#af644d"/>
+  <text x="174.0" y="386.0" font-size="13" fill="#f5f5f5" text-anchor="middle" font-family="sans-serif">红</text>
+  <text x="174.0" y="402.0" font-size="10" fill="#f5f5f5" opacity="0.7" text-anchor="middle" font-family="monospace">#af644d</text>
+
+  <rect x="230" y="374" width="100" height="30" fill="#385417"/>
+  <text x="280.0" y="386.0" font-size="13" fill="#f5f5f5" text-anchor="middle" font-family="sans-serif">绿</text>
+  <text x="280.0" y="402.0" font-size="10" fill="#f5f5f5" opacity="0.7" text-anchor="middle" font-family="monospace">#385417</text>
+
+  <rect x="336" y="374" width="100" height="30" fill="#313e00"/>
+  <text x="386.0" y="386.0" font-size="13" fill="#f5f5f5" text-anchor="middle" font-family="sans-serif">黄</text>
+  <text x="386.0" y="402.0" font-size="10" fill="#f5f5f5" opacity="0.7" text-anchor="middle" font-family="monospace">#313e00</text>
+
+  <rect x="442" y="374" width="100" height="30" fill="#936eac"/>
+  <text x="492.0" y="386.0" font-size="13" fill="#f5f5f5" text-anchor="middle" font-family="sans-serif">蓝</text>
+  <text x="492.0" y="402.0" font-size="10" fill="#f5f5f5" opacity="0.7" text-anchor="middle" font-family="monospace">#936eac</text>
+
+  <rect x="548" y="374" width="100" height="30" fill="#8e5185"/>
+  <text x="598.0" y="386.0" font-size="13" fill="#f5f5f5" text-anchor="middle" font-family="sans-serif">品红</text>
+  <text x="598.0" y="402.0" font-size="10" fill="#f5f5f5" opacity="0.7" text-anchor="middle" font-family="monospace">#8e5185</text>
+
+  <rect x="654" y="374" width="100" height="30" fill="#00494a"/>
+  <text x="704.0" y="386.0" font-size="13" fill="#f5f5f5" text-anchor="middle" font-family="sans-serif">青</text>
+  <text x="704.0" y="402.0" font-size="10" fill="#f5f5f5" opacity="0.7" text-anchor="middle" font-family="monospace">#00494a</text>
+
+  <rect x="760" y="374" width="100" height="30" fill="#7e8888"/>
+  <text x="810.0" y="386.0" font-size="13" fill="#f5f5f5" text-anchor="middle" font-family="sans-serif">白</text>
+  <text x="810.0" y="402.0" font-size="10" fill="#f5f5f5" opacity="0.7" text-anchor="middle" font-family="monospace">#7e8888</text>
+
+  <rect x="18" y="406" width="100" height="30" fill="#7d8d8c"/>
+  <text x="68.0" y="418.0" font-size="13" fill="#f5f5f5" text-anchor="middle" font-family="sans-serif"></text>
+  <text x="68.0" y="434.0" font-size="10" fill="#f5f5f5" opacity="0.7" text-anchor="middle" font-family="monospace">#7d8d8c</text>
+
+  <rect x="124" y="406" width="100" height="30" fill="#aa5339"/>
+  <text x="174.0" y="418.0" font-size="13" fill="#f5f5f5" text-anchor="middle" font-family="sans-serif"></text>
+  <text x="174.0" y="434.0" font-size="10" fill="#f5f5f5" opacity="0.7" text-anchor="middle" font-family="monospace">#aa5339</text>
+
+  <rect x="230" y="406" width="100" height="30" fill="#264700"/>
+  <text x="280.0" y="418.0" font-size="13" fill="#f5f5f5" text-anchor="middle" font-family="sans-serif"></text>
+  <text x="280.0" y="434.0" font-size="10" fill="#f5f5f5" opacity="0.7" text-anchor="middle" font-family="monospace">#264700</text>
+
+  <rect x="336" y="406" width="100" height="30" fill="#242c00"/>
+  <text x="386.0" y="418.0" font-size="13" fill="#f5f5f5" text-anchor="middle" font-family="sans-serif"></text>
+  <text x="386.0" y="434.0" font-size="10" fill="#f5f5f5" opacity="0.7" text-anchor="middle" font-family="monospace">#242c00</text>
+
+  <rect x="442" y="406" width="100" height="30" fill="#8c60aa"/>
+  <text x="492.0" y="418.0" font-size="13" fill="#f5f5f5" text-anchor="middle" font-family="sans-serif"></text>
+  <text x="492.0" y="434.0" font-size="10" fill="#f5f5f5" opacity="0.7" text-anchor="middle" font-family="monospace">#8c60aa</text>
+
+  <rect x="548" y="406" width="100" height="30" fill="#883e7f"/>
+  <text x="598.0" y="418.0" font-size="13" fill="#f5f5f5" text-anchor="middle" font-family="sans-serif"></text>
+  <text x="598.0" y="434.0" font-size="10" fill="#f5f5f5" opacity="0.7" text-anchor="middle" font-family="monospace">#883e7f</text>
+
+  <rect x="654" y="406" width="100" height="30" fill="#00393a"/>
+  <text x="704.0" y="418.0" font-size="13" fill="#f5f5f5" text-anchor="middle" font-family="sans-serif"></text>
+  <text x="704.0" y="434.0" font-size="10" fill="#f5f5f5" opacity="0.7" text-anchor="middle" font-family="monospace">#00393a</text>
+
+  <rect x="760" y="406" width="100" height="30" fill="#606a6a"/>
+  <text x="810.0" y="418.0" font-size="13" fill="#f5f5f5" text-anchor="middle" font-family="sans-serif"></text>
+  <text x="810.0" y="434.0" font-size="10" fill="#f5f5f5" opacity="0.7" text-anchor="middle" font-family="monospace">#606a6a</text>
+
+<text x="18" y="518" font-size="12" font-weight="600" fill="#333" font-family="sans-serif">xterm 默认 16 色 —— ANSI 槽位的语义参照（“红”应该长这样）</text>
+  <rect x="18" y="524" width="100" height="30" fill="#000000"/>
+  <text x="68.0" y="536.0" font-size="13" fill="#f5f5f5" text-anchor="middle" font-family="sans-serif">黑</text>
+  <text x="68.0" y="552.0" font-size="10" fill="#f5f5f5" opacity="0.7" text-anchor="middle" font-family="monospace">#000000</text>
+
+  <rect x="124" y="524" width="100" height="30" fill="#cd0000"/>
+  <text x="174.0" y="536.0" font-size="13" fill="#f5f5f5" text-anchor="middle" font-family="sans-serif">红</text>
+  <text x="174.0" y="552.0" font-size="10" fill="#f5f5f5" opacity="0.7" text-anchor="middle" font-family="monospace">#cd0000</text>
+
+  <rect x="230" y="524" width="100" height="30" fill="#00cd00"/>
+  <text x="280.0" y="536.0" font-size="13" fill="#111111" text-anchor="middle" font-family="sans-serif">绿</text>
+  <text x="280.0" y="552.0" font-size="10" fill="#111111" opacity="0.7" text-anchor="middle" font-family="monospace">#00cd00</text>
+
+  <rect x="336" y="524" width="100" height="30" fill="#cdcd00"/>
+  <text x="386.0" y="536.0" font-size="13" fill="#111111" text-anchor="middle" font-family="sans-serif">黄</text>
+  <text x="386.0" y="552.0" font-size="10" fill="#111111" opacity="0.7" text-anchor="middle" font-family="monospace">#cdcd00</text>
+
+  <rect x="442" y="524" width="100" height="30" fill="#0000ee"/>
+  <text x="492.0" y="536.0" font-size="13" fill="#f5f5f5" text-anchor="middle" font-family="sans-serif">蓝</text>
+  <text x="492.0" y="552.0" font-size="10" fill="#f5f5f5" opacity="0.7" text-anchor="middle" font-family="monospace">#0000ee</text>
+
+  <rect x="548" y="524" width="100" height="30" fill="#cd00cd"/>
+  <text x="598.0" y="536.0" font-size="13" fill="#f5f5f5" text-anchor="middle" font-family="sans-serif">品红</text>
+  <text x="598.0" y="552.0" font-size="10" fill="#f5f5f5" opacity="0.7" text-anchor="middle" font-family="monospace">#cd00cd</text>
+
+  <rect x="654" y="524" width="100" height="30" fill="#00cdcd"/>
+  <text x="704.0" y="536.0" font-size="13" fill="#111111" text-anchor="middle" font-family="sans-serif">青</text>
+  <text x="704.0" y="552.0" font-size="10" fill="#111111" opacity="0.7" text-anchor="middle" font-family="monospace">#00cdcd</text>
+
+  <rect x="760" y="524" width="100" height="30" fill="#e5e5e5"/>
+  <text x="810.0" y="536.0" font-size="13" fill="#111111" text-anchor="middle" font-family="sans-serif">白</text>
+  <text x="810.0" y="552.0" font-size="10" fill="#111111" opacity="0.7" text-anchor="middle" font-family="monospace">#e5e5e5</text>
 
 </svg>
